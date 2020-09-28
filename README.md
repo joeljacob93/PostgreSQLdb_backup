@@ -1,2 +1,2 @@
-# postgres_docker_deploy_shellscript
-Shell script to install docker and initialize postgres db container with sample tablespace on CentOS
+# PostgreSQLdb_docker_deploy
+Shell script to install docker and initialize PostgreSQL db container with sample tablespace on CentOS
