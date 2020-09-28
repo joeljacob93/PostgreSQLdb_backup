@@ -7,7 +7,7 @@ Installing The Postgres 9.6 Client -
 
 On Red-hat systems, use the following:
 
-$ wget https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm
+$ wget https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm <br />
 $ sudo yum install -y pgdg-redhat-repo-latest.noarch.rpm
 $ sudo yum update -y
 $ sudo yum autoremove -y postgresql
