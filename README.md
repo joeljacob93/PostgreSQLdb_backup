@@ -19,3 +19,4 @@ Let’s make sure that we can connect to the PostgreSQL server from our developm
 *Note: You’ll need to substitute in your database user’s values for [USERNAME], [PASSWORD], and [SERVER_IP].
 
 $ psql postgres://[USERNAME]:[PASSWORD]@[SERVER_IP]:80/sample -c "SELECT count(id) FROM employees;"
+
