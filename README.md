@@ -1,5 +1,8 @@
 # PostgreSQLdb_backup
-Shell script to install docker and initialize PostgreSQL db container with sample tablespace on CentOS
+
+<h1> Notes on using shell script </h1>
+
+Manually run Shell script to install docker and initialize PostgreSQL db container with sample tablespace on CentOS
 
 Once the PostgreSQL db container is deployed and initialized on the server. Install PostgreSQL client on the client system to fetch data from the DB -
 
