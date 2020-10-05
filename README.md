@@ -1,6 +1,6 @@
 # PostgreSQLdb_backup
 
-<h4> Notes on using shell script </h4>
+<h4> Notes on using the shell script for postgresql docker container and retrieving tablespace from a client </h4>
 
 Manually run Shell script to install docker and initialize PostgreSQL db container with sample tablespace on CentOS
 
