@@ -43,7 +43,7 @@ sudo docker run -d \
   --restart always \
   postgres:9.6.8-alpine
 
-sleep 20 # Ensure enough time for postgres database to initialize and create role
+sleep 20  # Ensure enough time for postgres database to initialize and create role
 
 sudo docker exec -i postgres psql -U $POSTGRES_USER -d $DB_NAME <<-EOF
 create table employees (
